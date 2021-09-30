@@ -10,3 +10,9 @@ not only helping students of color afford an education, but also includes
 those same students in their company after graduation. It's a great way 
 to not only correct some of the disparities in the tech industry, but also
 include better diversity of thought in the company itself. 
+
+## Comments
+
+### Andy Huang
+
+I'm surprised that the selection consists of college seniors, as opposed to high school seniors or college freshmen. I like the initiative though.
