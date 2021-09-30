@@ -2,7 +2,7 @@
 
 # Paragraph About What I Found Interesting
 
-I think this article is an interesting example of a software company  
+I think this article is an interesting example of a software company 
 making an actual effort to make sure that their development teams are
 inclusive in a way that is more substantial than simply hiring a person
 of color and launching vague "diversity and inclusion" initiatives. By
