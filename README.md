@@ -9,4 +9,18 @@ of color and launching vague "diversity and inclusion" initiatives. By
 not only helping students of color afford an education, but also includes
 those same students in their company after graduation. It's a great way 
 to not only correct some of the disparities in the tech industry, but also
-include better diversity of thought in the company itself. 
+include better diversity of thought in the company itself.
+
+<br>
+
+<h1> Ermias Merine <h1>
+
+<br>
+
+<p> Being black myself I found this artical really cool. I've always noticed the lack of 
+
+diversity in most of my classes and I can only imagine how it will be like in the industry. 
+
+I'm glad to see theres some companies out there working towards making real change. I hope in 
+
+the future more black people will have the oppertunity to be in the tech industry. </p>  
