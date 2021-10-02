@@ -13,7 +13,7 @@ include better diversity of thought in the company itself.
 
 <br>
 
-<h1> Ermias Merine <h1>
+<h1> Ermias Merine </h1>
 
 <br>
 
